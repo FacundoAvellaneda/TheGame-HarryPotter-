@@ -1749,3 +1749,733 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2025.11.08-03.55.01:409][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 258 ms (total: 2.52 sec)
 [2025.11.08-03.55.01:413][952]AssetCheck: New page: Asset Save: NewMap
 [2025.11.08-03.55.01:413][952]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2025.11.08-03.55.31:669][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.11.08-03.55.33:041][148]LogSlate: Window 'Save Content' being destroyed
+[2025.11.08-03.55.33:055][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.08-03.55.33:167][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_bulb_meshes3
+[2025.11.08-03.55.33:167][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_bulb_meshes3BAFEA5DB442D5594F8D420A1D41717E8.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_bulb_meshes3.uasset'
+[2025.11.08-03.55.33:181][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_bulbglows_mesh5
+[2025.11.08-03.55.33:181][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_bulbglows_mesh1F5AC86E4E4DC650AEBD5E9AE785EE6F.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_bulbglows_mesh5.uasset'
+[2025.11.08-03.55.33:193][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_bulletinboardframe_mesh15
+[2025.11.08-03.55.33:194][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_bulletinboardfB50FA290403BE23171C6E6B09BF0F6A8.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_bulletinboardframe_mesh15.uasset'
+[2025.11.08-03.55.33:207][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_burninglogs_mesh17
+[2025.11.08-03.55.33:208][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_burninglogs_me6A8C567E4AC73ABEAE59C4A5817C78AF.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_burninglogs_mesh17.uasset'
+[2025.11.08-03.55.33:219][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_cabinets_mesh19
+[2025.11.08-03.55.33:220][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_cabinets_mesh18A5FF8884F5BD6D4E401CF827E35ED61.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_cabinets_mesh19.uasset'
+[2025.11.08-03.55.33:235][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_chair01_mesh23
+[2025.11.08-03.55.33:236][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_chair01_mesh23886BFDFC4D0D9A5497B69A9166430C54.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_chair01_mesh23.uasset'
+[2025.11.08-03.55.33:250][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_chair03_mesh25
+[2025.11.08-03.55.33:250][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_chair03_mesh25F66FD3A94A414AFE8F71E2BCA5BA749E.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_chair03_mesh25.uasset'
+[2025.11.08-03.55.33:264][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_chair04_mesh27
+[2025.11.08-03.55.33:265][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_chair04_mesh2703B53C504CCC6776AC9308ACE446B4AB.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_chair04_mesh27.uasset'
+[2025.11.08-03.55.33:277][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_chair05_mesh29
+[2025.11.08-03.55.33:278][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_chair05_mesh295DC2E8DD49673DCB3EE4BAB4F15AD10A.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_chair05_mesh29.uasset'
+[2025.11.08-03.55.33:292][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_chair06_mesh31
+[2025.11.08-03.55.33:293][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_chair06_mesh31249F34DB4C8E349FFD513F859B47858D.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_chair06_mesh31.uasset'
+[2025.11.08-03.55.33:308][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_chair07_mesh33
+[2025.11.08-03.55.33:309][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_chair07_mesh33E5168F444467866B3FCCAABA10FECF8F.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_chair07_mesh33.uasset'
+[2025.11.08-03.55.33:322][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_chandelier_mesh37
+[2025.11.08-03.55.33:322][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_chandelier_mesD64A144B43203ECC464EE5854F67580B.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_chandelier_mesh37.uasset'
+[2025.11.08-03.55.33:340][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_couch_mesh45
+[2025.11.08-03.55.33:341][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_couch_mesh4526636CFC459FBF1AA754E099FA88C625.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_couch_mesh45.uasset'
+[2025.11.08-03.55.33:354][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_couch_pillows_mesh39
+[2025.11.08-03.55.33:355][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_couch_pillows_18B027284C66BB368C6350872D44AC86.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_couch_pillows_mesh39.uasset'
+[2025.11.08-03.55.33:367][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_embers_mesh7
+[2025.11.08-03.55.33:367][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_embers_mesh7B27F63D143FDF47E3FDAA3A1502F062F.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_embers_mesh7.uasset'
+[2025.11.08-03.55.33:380][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_fireplace_mesh41
+[2025.11.08-03.55.33:381][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_fireplace_mesh838636EC4DFBAE727042F2BEE1D770D0.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_fireplace_mesh41.uasset'
+[2025.11.08-03.55.33:391][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_fireplace_mesh_mesh43
+[2025.11.08-03.55.33:392][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_fireplace_meshAAD7BDF64C0DC21BE9B92291A723D77A.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_fireplace_mesh_mesh43.uasset'
+[2025.11.08-03.55.33:403][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_fireplaceguard_mesh51
+[2025.11.08-03.55.33:404][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_fireplaceguard0FFA1E6348CB47D9DE4E29806B11A3B3.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_fireplaceguard_mesh51.uasset'
+[2025.11.08-03.55.33:418][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_footrest01_mesh47
+[2025.11.08-03.55.33:418][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_footrest01_mes72B6AB9F40234B21BDC70BA7EF3C1C1E.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_footrest01_mesh47.uasset'
+[2025.11.08-03.55.33:431][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_lamps01_mesh53
+[2025.11.08-03.55.33:432][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_lamps01_mesh536D13D4AF409CCCE8F2656FAEC046E307.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_lamps01_mesh53.uasset'
+[2025.11.08-03.55.33:443][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_paintings_mesh49
+[2025.11.08-03.55.33:444][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_paintings_mesh2BC0ABA04A177D0283DAD8A4C0F62B3F.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_paintings_mesh49.uasset'
+[2025.11.08-03.55.33:456][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_rug_mesh57
+[2025.11.08-03.55.33:456][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_rug_mesh57B18B1A5F4DE166541CC385B7E0985DF4.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_rug_mesh57.uasset'
+[2025.11.08-03.55.33:469][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smallprops01_mesh61
+[2025.11.08-03.55.33:469][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smallprops01_mD18E6AE34FD2C9F364F0CE9FED5B8A57.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smallprops01_mesh61.uasset'
+[2025.11.08-03.55.33:480][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smallprops02_mesh59
+[2025.11.08-03.55.33:481][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smallprops02_m0FA60F6E46761DEA632A51BFF6FD0452.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smallprops02_mesh59.uasset'
+[2025.11.08-03.55.33:492][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smallprops03_mesh67
+[2025.11.08-03.55.33:493][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smallprops03_m26900CEC4A4B1E91AEF8C9AD72DB7718.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smallprops03_mesh67.uasset'
+[2025.11.08-03.55.33:508][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smallprops04_mesh65
+[2025.11.08-03.55.33:508][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smallprops04_m2192BD3F484A9E7C735B409D8BA4C1D0.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smallprops04_mesh65.uasset'
+[2025.11.08-03.55.33:521][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smallprops06_mesh63
+[2025.11.08-03.55.33:521][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smallprops06_mF9CCF7C546F247F3EE4FD0A972F2B306.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smallprops06_mesh63.uasset'
+[2025.11.08-03.55.33:537][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smallprops07_mesh71
+[2025.11.08-03.55.33:537][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smallprops07_m7D41CA3E4CF25C4972D43093DF2361A7.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smallprops07_mesh71.uasset'
+[2025.11.08-03.55.33:549][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smallprops_08_mesh75
+[2025.11.08-03.55.33:550][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smallprops_08_A153695C4D0E46B61AE607B9F41A9369.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smallprops_08_mesh75.uasset'
+[2025.11.08-03.55.33:565][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smalltable01_mesh69
+[2025.11.08-03.55.33:565][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smalltable01_mB4519F8C4E0221D2460C0A9CD5E546B1.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smalltable01_mesh69.uasset'
+[2025.11.08-03.55.33:580][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smalltable02_mesh73
+[2025.11.08-03.55.33:580][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smalltable02_m6671EA9148ACE86414DF7985C5714D70.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smalltable02_mesh73.uasset'
+[2025.11.08-03.55.33:595][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smalltable03_mesh77
+[2025.11.08-03.55.33:595][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smalltable03_m8F8F744A457C5FC8BCEF4C960A5992C8.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smalltable03_mesh77.uasset'
+[2025.11.08-03.55.33:609][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smalltable04_mesh79
+[2025.11.08-03.55.33:609][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smalltable04_mD4825F694D9A912852E2B29CE926BC72.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smalltable04_mesh79.uasset'
+[2025.11.08-03.55.33:622][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_smalltable05_mesh81
+[2025.11.08-03.55.33:622][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_smalltable05_m081D577841849B302CA2EBA13B5E735B.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_smalltable05_mesh81.uasset'
+[2025.11.08-03.55.33:635][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_softspot_mesh85
+[2025.11.08-03.55.33:636][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_softspot_mesh86E5D8D6B4877459DE502B08FFF605B9B.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_softspot_mesh85.uasset'
+[2025.11.08-03.55.33:651][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_softspot_mesh86
+[2025.11.08-03.55.33:652][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_softspot_mesh887C61C2449E6FD08EF239A9ACA8DD875.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_softspot_mesh86.uasset'
+[2025.11.08-03.55.33:665][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_sparelogs_mesh90
+[2025.11.08-03.55.33:666][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_sparelogs_meshF25972D7457A6FFB36ED4BB989A5741A.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_sparelogs_mesh90.uasset'
+[2025.11.08-03.55.33:679][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_supportbeams_mesh83
+[2025.11.08-03.55.33:680][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_supportbeams_m675F70EE4A5E97A75FBA229BCBCF14F9.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_supportbeams_mesh83.uasset'
+[2025.11.08-03.55.33:697][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_tableset01_mesh92
+[2025.11.08-03.55.33:697][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_tableset01_mes6819534E4F3475DB472B6B8DEEC52324.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_tableset01_mesh92.uasset'
+[2025.11.08-03.55.33:711][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_tapestries_mesh88
+[2025.11.08-03.55.33:711][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_tapestries_mes6ACD66D24981F83EAF45AB8AF2985932.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_tapestries_mesh88.uasset'
+[2025.11.08-03.55.33:726][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_walls_mesh94
+[2025.11.08-03.55.33:727][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_walls_mesh943B307CBC47E62B846EA5EA9F30052E5B.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_walls_mesh94.uasset'
+[2025.11.08-03.55.33:739][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_windows_mesh96
+[2025.11.08-03.55.33:739][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_windows_mesh96AFA562CB435C1CE14BF8B38A36CB748A.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_windows_mesh96.uasset'
+[2025.11.08-03.55.33:758][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_wireless01_mesh98
+[2025.11.08-03.55.33:758][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_wireless01_mesD16409354661D5BE05D2B19EB1534413.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_wireless01_mesh98.uasset'
+[2025.11.08-03.55.33:775][148]LogSavePackage: Moving output files for package: /Game/objetos/map/grifindor/sala_de_grifindor_wireless02_mesh100
+[2025.11.08-03.55.33:776][148]LogSavePackage: Moving '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Saved/sala_de_grifindor_wireless02_mesFBF4EFDF4F327AD29D163F8863A6069C.tmp' to '../../../../../../Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/objetos/map/grifindor/sala_de_grifindor_wireless02_mesh100.uasset'
+[2025.11.08-03.55.33:795][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 740 ms (total: 3.26 sec)
+[2025.11.08-03.55.33:795][148]LogStall: Shutdown...
+[2025.11.08-03.55.33:800][148]LogStall: Shutdown complete.
+[2025.11.08-03.55.33:854][148]LogSlate: Window 'TheGame - Unreal Editor' being destroyed
+[2025.11.08-03.55.33:942][148]AssetCheck: New page: Asset Save: multiple assets
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_bulb_meshes3.sala_de_grifindor_bulb_meshes3
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_bulbglows_mesh5.sala_de_grifindor_bulbglows_mesh5
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_bulletinboardframe_mesh15.sala_de_grifindor_bulletinboardframe_mesh15
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_burninglogs_mesh17.sala_de_grifindor_burninglogs_mesh17
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_cabinets_mesh19.sala_de_grifindor_cabinets_mesh19
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_chair01_mesh23.sala_de_grifindor_chair01_mesh23
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_chair03_mesh25.sala_de_grifindor_chair03_mesh25
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_chair04_mesh27.sala_de_grifindor_chair04_mesh27
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_chair05_mesh29.sala_de_grifindor_chair05_mesh29
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_chair06_mesh31.sala_de_grifindor_chair06_mesh31
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_chair07_mesh33.sala_de_grifindor_chair07_mesh33
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_chandelier_mesh37.sala_de_grifindor_chandelier_mesh37
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_couch_mesh45.sala_de_grifindor_couch_mesh45
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_couch_pillows_mesh39.sala_de_grifindor_couch_pillows_mesh39
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_embers_mesh7.sala_de_grifindor_embers_mesh7
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_fireplace_mesh41.sala_de_grifindor_fireplace_mesh41
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_fireplace_mesh_mesh43.sala_de_grifindor_fireplace_mesh_mesh43
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_fireplaceguard_mesh51.sala_de_grifindor_fireplaceguard_mesh51
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_footrest01_mesh47.sala_de_grifindor_footrest01_mesh47
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_lamps01_mesh53.sala_de_grifindor_lamps01_mesh53
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_paintings_mesh49.sala_de_grifindor_paintings_mesh49
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_rug_mesh57.sala_de_grifindor_rug_mesh57
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smallprops01_mesh61.sala_de_grifindor_smallprops01_mesh61
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smallprops02_mesh59.sala_de_grifindor_smallprops02_mesh59
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smallprops03_mesh67.sala_de_grifindor_smallprops03_mesh67
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smallprops04_mesh65.sala_de_grifindor_smallprops04_mesh65
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smallprops06_mesh63.sala_de_grifindor_smallprops06_mesh63
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smallprops07_mesh71.sala_de_grifindor_smallprops07_mesh71
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smallprops_08_mesh75.sala_de_grifindor_smallprops_08_mesh75
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smalltable01_mesh69.sala_de_grifindor_smalltable01_mesh69
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smalltable02_mesh73.sala_de_grifindor_smalltable02_mesh73
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smalltable03_mesh77.sala_de_grifindor_smalltable03_mesh77
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smalltable04_mesh79.sala_de_grifindor_smalltable04_mesh79
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_smalltable05_mesh81.sala_de_grifindor_smalltable05_mesh81
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_softspot_mesh85.sala_de_grifindor_softspot_mesh85
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_softspot_mesh86.sala_de_grifindor_softspot_mesh86
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_sparelogs_mesh90.sala_de_grifindor_sparelogs_mesh90
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_supportbeams_mesh83.sala_de_grifindor_supportbeams_mesh83
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_tableset01_mesh92.sala_de_grifindor_tableset01_mesh92
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_tapestries_mesh88.sala_de_grifindor_tapestries_mesh88
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_walls_mesh94.sala_de_grifindor_walls_mesh94
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_windows_mesh96.sala_de_grifindor_windows_mesh96
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_wireless01_mesh98.sala_de_grifindor_wireless01_mesh98
+[2025.11.08-03.55.33:942][148]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/objetos/map/grifindor/sala_de_grifindor_wireless02_mesh100.sala_de_grifindor_wireless02_mesh100
+[2025.11.08-03.55.33:943][148]LogAutomationController: Ignoring very large delta of 2.29 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.11.08-03.55.33:944][149]Cmd: QUIT_EDITOR
+[2025.11.08-03.55.33:944][149]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.08-03.55.33:947][149]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.08-03.55.33:948][149]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.08-03.55.33:948][149]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.08-03.55.33:954][149]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.08-03.55.33:954][149]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.08-03.55.33:964][149]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.08-03.55.34:659][149]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.08-03.55.34:659][149]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.08-03.55.34:659][149]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2025.11.08-03.55.34:659][149]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.11.08-03.55.34:659][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.11.08-03.55.34:660][149]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.11.08-03.55.34:665][149]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.08-03.55.34:666][149]LogWindowsTextInputMethodSystem: Activated input method: Español (Argentina) - (Keyboard).
+[2025.11.08-03.55.34:669][149]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.08-03.55.34:669][149]LogExit: Preparing to exit.
+[2025.11.08-03.55.34:684][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2025.11.08-03.55.35:131][149]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2025.11.08-03.55.35:183][149]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/Usuario/Documents/GitHub/TheGame-HarryPotter-/TheGame/Content/]. Aborting watch request...
+[2025.11.08-03.55.35:197][149]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.08-03.55.35:228][149]LogExit: Editor shut down
+[2025.11.08-03.55.35:231][149]LogExit: Transaction tracking system shut down
+[2025.11.08-03.55.35:356][149]LogExit: Object subsystem successfully closed.
+[2025.11.08-03.55.35:362][149]LogShaderCompilers: Display: ================================================
+[2025.11.08-03.55.35:362][149]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.08-03.55.35:362][149]LogShaderCompilers: Display: Total job queries 24, among them cache hits 12 (50.00%)
+[2025.11.08-03.55.35:362][149]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 10 distinct outputs (83.33%)
+[2025.11.08-03.55.35:362][149]LogShaderCompilers: Display: RAM used: 267,17 KiB of 819,20 MiB budget. Usage: 0.03%
+[2025.11.08-03.55.35:362][149]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.08-03.55.35:362][149]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.11.08-03.55.35:362][149]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.11.08-03.55.35:362][149]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.11.08-03.55.35:362][149]LogShaderCompilers: Display: ================================================
+[2025.11.08-03.55.35:378][149]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.08-03.55.35:393][149]LogVirtualization: UE::Virtualization was shutdown
+[2025.11.08-03.55.35:458][149]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1056)
+[2025.11.08-03.55.35:458][149]LogModuleManager: Shutting down and abandoning module Voice (1054)
+[2025.11.08-03.55.35:458][149]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1052)
+[2025.11.08-03.55.35:458][149]LogModuleManager: Shutting down and abandoning module AddContentDialog (1050)
+[2025.11.08-03.55.35:458][149]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1049)
+[2025.11.08-03.55.35:458][149]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1046)
+[2025.11.08-03.55.35:458][149]LogModuleManager: Shutting down and abandoning module SceneOutliner (1044)
+[2025.11.08-03.55.35:458][149]LogModuleManager: Shutting down and abandoning module StatusBar (1042)
+[2025.11.08-03.55.35:458][149]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1040)
+[2025.11.08-03.55.35:458][149]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1038)
+[2025.11.08-03.55.35:458][149]LogModuleManager: Shutting down and abandoning module StatsViewer (1036)
+[2025.11.08-03.55.35:459][149]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1034)
+[2025.11.08-03.55.35:459][149]LogModuleManager: Shutting down and abandoning module AutomationWorker (1032)
+[2025.11.08-03.55.35:459][149]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1030)
+[2025.11.08-03.55.35:459][149]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1028)
+[2025.11.08-03.55.35:459][149]LogModuleManager: Shutting down and abandoning module WebMMedia (1026)
+[2025.11.08-03.55.35:459][149]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1024)
+[2025.11.08-03.55.35:459][149]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1022)
+[2025.11.08-03.55.35:459][149]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1020)
+[2025.11.08-03.55.35:459][149]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1018)
+[2025.11.08-03.55.35:459][149]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1017)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1014)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1012)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1010)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (1008)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (1006)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (1004)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (1002)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1000)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module WaveTableEditor (998)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module RigVMEditor (996)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (994)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module GooglePADEditor (992)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (990)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (988)
+[2025.11.08-03.55.35:460][149]LogModuleManager: Shutting down and abandoning module IKRigEditor (986)
+[2025.11.08-03.55.35:461][149]LogModuleManager: Shutting down and abandoning module ControlRigEditor (984)
+[2025.11.08-03.55.35:462][149]LogModuleManager: Shutting down and abandoning module SmartSnapping (982)
+[2025.11.08-03.55.35:462][149]LogModuleManager: Shutting down and abandoning module PlanarCut (980)
+[2025.11.08-03.55.35:462][149]LogModuleManager: Shutting down and abandoning module FractureEngine (978)
+[2025.11.08-03.55.35:463][149]LogModuleManager: Shutting down and abandoning module CharacterAI (976)
+[2025.11.08-03.55.35:463][149]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (974)
+[2025.11.08-03.55.35:463][149]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (972)
+[2025.11.08-03.55.35:463][149]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (970)
+[2025.11.08-03.55.35:463][149]LogModuleManager: Shutting down and abandoning module TextureAlignMode (968)
+[2025.11.08-03.55.35:463][149]LogModuleManager: Shutting down and abandoning module BspMode (966)
+[2025.11.08-03.55.35:463][149]LogModuleManager: Shutting down and abandoning module GeometryMode (964)
+[2025.11.08-03.55.35:463][149]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (962)
+[2025.11.08-03.55.35:463][149]LogModuleManager: Shutting down and abandoning module SessionServices (960)
+[2025.11.08-03.55.35:464][149]LogModuleManager: Shutting down and abandoning module MeshPaint (958)
+[2025.11.08-03.55.35:464][149]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (956)
+[2025.11.08-03.55.35:464][149]LogModuleManager: Shutting down and abandoning module PlacementMode (955)
+[2025.11.08-03.55.35:464][149]LogModuleManager: Shutting down and abandoning module FoliageEdit (952)
+[2025.11.08-03.55.35:465][149]LogModuleManager: Shutting down and abandoning module LandscapeEditor (950)
+[2025.11.08-03.55.35:466][149]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (948)
+[2025.11.08-03.55.35:466][149]LogModuleManager: Shutting down and abandoning module ActorPickerMode (946)
+[2025.11.08-03.55.35:466][149]LogModuleManager: Shutting down and abandoning module ViewportSnapping (944)
+[2025.11.08-03.55.35:466][149]LogModuleManager: Shutting down and abandoning module EditorWidgets (942)
+[2025.11.08-03.55.35:466][149]LogModuleManager: Shutting down and abandoning module ViewportInteraction (940)
+[2025.11.08-03.55.35:466][149]LogModuleManager: Shutting down and abandoning module ClothPainter (938)
+[2025.11.08-03.55.35:466][149]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (937)
+[2025.11.08-03.55.35:467][149]LogModuleManager: Shutting down and abandoning module WidgetRegistration (934)
+[2025.11.08-03.55.35:467][149]LogModuleManager: Shutting down and abandoning module LogVisualizer (932)
+[2025.11.08-03.55.35:467][149]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (930)
+[2025.11.08-03.55.35:467][149]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (928)
+[2025.11.08-03.55.35:467][149]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (927)
+[2025.11.08-03.55.35:468][149]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (925)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (922)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (920)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (918)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (916)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (914)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (912)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module AnimationSettings (910)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (908)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module CSVtoSVG (906)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (904)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module EditorConfig (902)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module EditorFramework (900)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (898)
+[2025.11.08-03.55.36:418][149]LogModuleManager: Shutting down and abandoning module TraceInsights (896)
+[2025.11.08-03.55.36:419][149]MemoryProfiler: Shutdown
+[2025.11.08-03.55.36:420][149]NetworkingProfiler: Shutdown
+[2025.11.08-03.55.36:420][149]LoadingProfiler: Shutdown
+[2025.11.08-03.55.36:420][149]TimingProfiler: Shutdown
+[2025.11.08-03.55.36:421][149]LogModuleManager: Shutting down and abandoning module TraceServices (895)
+[2025.11.08-03.55.36:422][149]LogModuleManager: Shutting down and abandoning module TraceAnalysis (894)
+[2025.11.08-03.55.36:422][149]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (890)
+[2025.11.08-03.55.36:422][149]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (889)
+[2025.11.08-03.55.36:422][149]LogModuleManager: Shutting down and abandoning module InputBindingEditor (886)
+[2025.11.08-03.55.36:422][149]LogModuleManager: Shutting down and abandoning module MergeActors (884)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (882)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module LocalizationService (881)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module HardwareTargeting (878)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (876)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module UndoHistory (874)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module XmlParser (872)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module Blutility (870)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (868)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (867)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (864)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (863)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module SettingsEditor (860)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module ProjectLauncher (858)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module SessionFrontend (856)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module ProfilerClient (854)
+[2025.11.08-03.55.36:423][149]LogModuleManager: Shutting down and abandoning module DeviceManager (852)
+[2025.11.08-03.55.36:424][149]LogModuleManager: Shutting down and abandoning module AutomationController (850)
+[2025.11.08-03.55.36:424][149]LogModuleManager: Shutting down and abandoning module AutomationWindow (848)
+[2025.11.08-03.55.36:424][149]LogModuleManager: Shutting down and abandoning module Layers (846)
+[2025.11.08-03.55.36:425][149]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (844)
+[2025.11.08-03.55.36:426][149]LogModuleManager: Shutting down and abandoning module DetailCustomizations (842)
+[2025.11.08-03.55.36:426][149]LogModuleManager: Shutting down and abandoning module PackagesDialog (840)
+[2025.11.08-03.55.36:426][149]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (838)
+[2025.11.08-03.55.36:427][149]LogModuleManager: Shutting down and abandoning module Persona (836)
+[2025.11.08-03.55.36:428][149]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (835)
+[2025.11.08-03.55.36:428][149]LogModuleManager: Shutting down and abandoning module Kismet (832)
+[2025.11.08-03.55.36:431][149]LogModuleManager: Shutting down and abandoning module KismetWidgets (831)
+[2025.11.08-03.55.36:431][149]LogModuleManager: Shutting down and abandoning module GraphEditor (828)
+[2025.11.08-03.55.36:433][149]LogModuleManager: Shutting down and abandoning module StructViewer (826)
+[2025.11.08-03.55.36:433][149]LogModuleManager: Shutting down and abandoning module ClassViewer (824)
+[2025.11.08-03.55.36:433][149]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (822)
+[2025.11.08-03.55.36:433][149]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (820)
+[2025.11.08-03.55.36:433][149]LogModuleManager: Shutting down and abandoning module SourceControlWindows (818)
+[2025.11.08-03.55.36:433][149]LogModuleManager: Shutting down and abandoning module OutputLog (816)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module Documentation (814)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (812)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (810)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module MovieScene (808)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (806)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (804)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (802)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module AudioMixer (801)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module AudioMixerCore (800)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module LauncherPlatform (796)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module AnalyticsET (794)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module PortalServices (792)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module PortalRpc (790)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module MessagingRpc (788)
+[2025.11.08-03.55.36:434][149]LogModuleManager: Shutting down and abandoning module AIModule (786)
+[2025.11.08-03.55.36:435][149]LogModuleManager: Shutting down and abandoning module GameplayDebugger (785)
+[2025.11.08-03.55.36:435][149]LogModuleManager: Shutting down and abandoning module AITestSuite (783)
+[2025.11.08-03.55.36:435][149]LogModuleManager: Shutting down and abandoning module NavigationSystem (781)
+[2025.11.08-03.55.36:435][149]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (778)
+[2025.11.08-03.55.36:435][149]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (776)
+[2025.11.08-03.55.36:435][149]LogModuleManager: Shutting down and abandoning module TypedElementFramework (774)
+[2025.11.08-03.55.36:435][149]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (772)
+[2025.11.08-03.55.36:435][149]LogModuleManager: Shutting down and abandoning module ProfilerService (770)
+[2025.11.08-03.55.36:633][149]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (768)
+[2025.11.08-03.55.36:634][149]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (766)
+[2025.11.08-03.55.36:634][149]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (764)
+[2025.11.08-03.55.36:634][149]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (762)
+[2025.11.08-03.55.36:634][149]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (760)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module TakesCore (758)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module Fab (756)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module MegascansPlugin (754)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module Bridge (752)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (750)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (748)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (746)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (744)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module CollectionManager (743)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (740)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module LightMixer (738)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (736)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (734)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module UObjectPlugin (732)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (730)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (728)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module PluginUtils (726)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (724)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module DumpGPUServices (722)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (720)
+[2025.11.08-03.55.36:635][149]LogModuleManager: Shutting down and abandoning module GitSourceControl (718)
+[2025.11.08-03.55.36:636][149]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (716)
+[2025.11.08-03.55.36:636][149]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (714)
+[2025.11.08-03.55.36:636][149]LogModuleManager: Shutting down and abandoning module InterchangeTests (712)
+[2025.11.08-03.55.36:636][149]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (710)
+[2025.11.08-03.55.36:636][149]LogModuleManager: Shutting down and abandoning module MediaPlate (708)
+[2025.11.08-03.55.36:636][149]LogModuleManager: Shutting down and abandoning module MediaCompositing (706)
+[2025.11.08-03.55.36:636][149]LogModuleManager: Shutting down and abandoning module ImgMedia (704)
+[2025.11.08-03.55.36:636][149]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (702)
+[2025.11.08-03.55.36:637][149]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (700)
+[2025.11.08-03.55.36:637][149]LogModuleManager: Shutting down and abandoning module VariantManager (698)
+[2025.11.08-03.55.36:638][149]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (697)
+[2025.11.08-03.55.36:638][149]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (694)
+[2025.11.08-03.55.36:638][149]LogModuleManager: Shutting down and abandoning module SynthesisEditor (692)
+[2025.11.08-03.55.36:638][149]LogModuleManager: Shutting down and abandoning module ResonanceAudio (690)
+[2025.11.08-03.55.36:638][149]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (688)
+[2025.11.08-03.55.36:638][149]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (686)
+[2025.11.08-03.55.36:638][149]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (684)
+[2025.11.08-03.55.36:638][149]LogModuleManager: Shutting down and abandoning module ModelingOperators (682)
+[2025.11.08-03.55.36:638][149]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (680)
+[2025.11.08-03.55.36:638][149]LogModuleManager: Shutting down and abandoning module ModelingComponents (678)
+[2025.11.08-03.55.36:639][149]LogModuleManager: Shutting down and abandoning module GeometryFramework (677)
+[2025.11.08-03.55.36:639][149]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (674)
+[2025.11.08-03.55.36:639][149]LogModuleManager: Shutting down and abandoning module MeshModelingTools (672)
+[2025.11.08-03.55.36:639][149]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (670)
+[2025.11.08-03.55.36:639][149]LogModuleManager: Shutting down and abandoning module InputDebugging (668)
+[2025.11.08-03.55.36:639][149]LogModuleManager: Shutting down and abandoning module GooglePAD (666)
+[2025.11.08-03.55.36:639][149]LogModuleManager: Shutting down and abandoning module DynamicMesh (664)
+[2025.11.08-03.55.36:639][149]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (662)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (660)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (658)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (656)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module AudioCapture (654)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (653)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module AssetTags (650)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (648)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module AppleImageUtils (646)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (644)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module AndroidPermission (642)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (640)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (638)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module TakeSequencer (636)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module TakeMovieScene (634)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module ControlRigSpline (632)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (630)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (628)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (626)
+[2025.11.08-03.55.36:640][149]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (624)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (622)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (620)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module InterchangeExport (618)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module InterchangeMessages (616)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module GLTFCore (614)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (612)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (610)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module Paper2DEditor (608)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (606)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (604)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module InterchangeEditor (602)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (600)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (598)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (596)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (594)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (592)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (590)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (588)
+[2025.11.08-03.55.36:641][149]LogOpenImageDenoise: OIDN shutting down
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module MeshLODToolset (586)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (584)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module LocalizableMessage (582)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (580)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (578)
+[2025.11.08-03.55.36:641][149]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (576)
+[2025.11.08-03.55.36:642][149]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (574)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (572)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (570)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (568)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (566)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (564)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (562)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (561)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (559)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (556)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module DataflowNodes (554)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (552)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module DataflowEditor (550)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (548)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (546)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (544)
+[2025.11.08-03.55.36:643][149]LogModuleManager: Shutting down and abandoning module ChaosNiagara (542)
+[2025.11.08-03.55.36:644][149]LogModuleManager: Shutting down and abandoning module FractureEditor (540)
+[2025.11.08-03.55.36:644][149]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (538)
+[2025.11.08-03.55.36:644][149]LogModuleManager: Shutting down and abandoning module AutomationUtils (536)
+[2025.11.08-03.55.36:644][149]LogModuleManager: Shutting down and abandoning module BackChannel (534)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module TemplateSequence (532)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (530)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module SequencerScripting (528)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module AlembicImporter (526)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module AlembicLibrary (525)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module GeometryCache (524)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (523)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (516)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (514)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module UVEditorTools (512)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module UVEditor (510)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (508)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (506)
+[2025.11.08-03.55.36:645][149]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (504)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (502)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module PluginBrowser (500)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (498)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (496)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module EditorDebugTools (494)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module CurveEditorTools (492)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (490)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module CryptoKeys (488)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module ChangelistReview (486)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (484)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (482)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module TraceUtilities (480)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (478)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (476)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module InputEditor (474)
+[2025.11.08-03.55.36:646][149]LogModuleManager: Shutting down and abandoning module UdpMessaging (472)
+[2025.11.08-03.55.36:747][149]LogModuleManager: Shutting down and abandoning module TcpMessaging (470)
+[2025.11.08-03.55.36:848][149]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (468)
+[2025.11.08-03.55.36:848][149]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (466)
+[2025.11.08-03.55.36:848][149]LogModuleManager: Shutting down and abandoning module AnimationSharing (464)
+[2025.11.08-03.55.36:848][149]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (462)
+[2025.11.08-03.55.36:848][149]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (460)
+[2025.11.08-03.55.36:848][149]LogModuleManager: Shutting down and abandoning module Niagara (458)
+[2025.11.08-03.55.36:849][149]LogModuleManager: Shutting down and abandoning module NiagaraEditor (457)
+[2025.11.08-03.55.36:849][149]LogModuleManager: Shutting down and abandoning module NiagaraCore (454)
+[2025.11.08-03.55.36:849][149]LogModuleManager: Shutting down and abandoning module GameplayCameras (452)
+[2025.11.08-03.55.36:849][149]LogModuleManager: Shutting down and abandoning module Synthesis (450)
+[2025.11.08-03.55.36:849][149]LogModuleManager: Shutting down and abandoning module SoundFields (448)
+[2025.11.08-03.55.36:849][149]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (446)
+[2025.11.08-03.55.36:849][149]LogModuleManager: Shutting down and abandoning module RigVM (444)
+[2025.11.08-03.55.36:849][149]LogModuleManager: Shutting down and abandoning module SignificanceManager (442)
+[2025.11.08-03.55.36:849][149]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (440)
+[2025.11.08-03.55.36:849][149]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (438)
+[2025.11.08-03.55.36:850][149]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (436)
+[2025.11.08-03.55.36:850][149]LogModuleManager: Shutting down and abandoning module MetasoundEditor (434)
+[2025.11.08-03.55.36:850][149]LogModuleManager: Shutting down and abandoning module AudioWidgets (433)
+[2025.11.08-03.55.36:850][149]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (432)
+[2025.11.08-03.55.36:851][149]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (428)
+[2025.11.08-03.55.36:851][149]LogModuleManager: Shutting down and abandoning module MetasoundEngine (426)
+[2025.11.08-03.55.36:851][149]LogModuleManager: Shutting down and abandoning module WaveTable (425)
+[2025.11.08-03.55.36:851][149]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (423)
+[2025.11.08-03.55.36:851][149]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (420)
+[2025.11.08-03.55.36:851][149]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (418)
+[2025.11.08-03.55.36:851][149]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (416)
+[2025.11.08-03.55.36:851][149]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (414)
+[2025.11.08-03.55.36:852][149]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (412)
+[2025.11.08-03.55.36:852][149]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (410)
+[2025.11.08-03.55.36:852][149]LogModuleManager: Shutting down and abandoning module CableComponent (408)
+[2025.11.08-03.55.36:852][149]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (406)
+[2025.11.08-03.55.36:852][149]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (405)
+[2025.11.08-03.55.36:852][149]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (402)
+[2025.11.08-03.55.36:852][149]LogModuleManager: Shutting down and abandoning module SignalProcessing (401)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (398)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module IKRig (396)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (394)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module ControlRig (392)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module Constraints (391)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module AnimationData (388)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module InterchangePipelines (386)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module InterchangeImport (384)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (382)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module InterchangeNodes (380)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module Paper2D (378)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module StructUtils (376)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (374)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module PBIK (372)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module FullBodyIK (370)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (368)
+[2025.11.08-03.55.36:853][149]LogModuleManager: Shutting down and abandoning module TakeRecorder (367)
+[2025.11.08-03.55.36:854][149]LogModuleManager: Shutting down and abandoning module ChaosCaching (364)
+[2025.11.08-03.55.36:854][149]LogModuleManager: Shutting down and abandoning module LevelSequence (363)
+[2025.11.08-03.55.36:854][149]LogModuleManager: Shutting down and abandoning module ActorSequence (360)
+[2025.11.08-03.55.36:854][149]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (358)
+[2025.11.08-03.55.36:854][149]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (356)
+[2025.11.08-03.55.36:854][149]LogModuleManager: Shutting down and abandoning module FacialAnimation (354)
+[2025.11.08-03.55.36:854][149]LogModuleManager: Shutting down and abandoning module DataValidation (352)
+[2025.11.08-03.55.36:854][149]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (350)
+[2025.11.08-03.55.36:854][149]LogModuleManager: Shutting down and abandoning module LevelEditor (349)
+[2025.11.08-03.55.36:863][149]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (348)
+[2025.11.08-03.55.36:863][149]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (346)
+[2025.11.08-03.55.36:863][149]LogModuleManager: Shutting down and abandoning module MainFrame (344)
+[2025.11.08-03.55.36:863][149]LogModuleManager: Shutting down and abandoning module HotReload (343)
+[2025.11.08-03.55.36:864][149]LogModuleManager: Shutting down and abandoning module ContentBrowser (339)
+[2025.11.08-03.55.36:864][149]LogModuleManager: Shutting down and abandoning module ToolMenus (338)
+[2025.11.08-03.55.36:864][149]LogModuleManager: Shutting down and abandoning module ContentBrowserData (336)
+[2025.11.08-03.55.36:864][149]LogModuleManager: Shutting down and abandoning module TreeMap (333)
+[2025.11.08-03.55.36:864][149]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (330)
+[2025.11.08-03.55.36:864][149]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (328)
+[2025.11.08-03.55.36:864][149]LogModuleManager: Shutting down and abandoning module BlueprintGraph (327)
+[2025.11.08-03.55.36:864][149]LogModuleManager: Shutting down and abandoning module EnhancedInput (324)
+[2025.11.08-03.55.36:864][149]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (322)
+[2025.11.08-03.55.36:866][149]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (320)
+[2025.11.08-03.55.36:866][149]LogModuleManager: Shutting down and abandoning module AndroidFileServer (318)
+[2025.11.08-03.55.36:866][149]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (316)
+[2025.11.08-03.55.36:866][149]LogModuleManager: Shutting down and abandoning module PacketHandler (314)
+[2025.11.08-03.55.36:866][149]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (312)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module AnimGraph (310)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module TimeManagement (308)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module AnimationDataController (306)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (304)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (302)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module MediaAssets (300)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module Overlay (298)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module OverlayEditor (297)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module VREditor (294)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module StringTableEditor (292)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (290)
+[2025.11.08-03.55.36:867][149]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (288)
+[2025.11.08-03.55.36:868][149]LogModuleManager: Shutting down and abandoning module FunctionalTesting (286)
+[2025.11.08-03.55.36:868][149]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (284)
+[2025.11.08-03.55.36:868][149]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (283)
+[2025.11.08-03.55.36:868][149]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (280)
+[2025.11.08-03.55.36:868][149]LogModuleManager: Shutting down and abandoning module UMG (278)
+[2025.11.08-03.55.36:868][149]LogModuleManager: Shutting down and abandoning module UMGEditor (277)
+[2025.11.08-03.55.36:869][149]LogModuleManager: Shutting down and abandoning module EditorStyle (272)
+[2025.11.08-03.55.36:869][149]LogModuleManager: Shutting down and abandoning module SlateReflector (270)
+[2025.11.08-03.55.36:872][149]LogModuleManager: Shutting down and abandoning module Slate (268)
+[2025.11.08-03.55.36:872][149]LogModuleManager: Shutting down and abandoning module SlateCore (266)
+[2025.11.08-03.55.36:873][149]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (264)
+[2025.11.08-03.55.36:873][149]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2025.11.08-03.55.36:873][149]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2025.11.08-03.55.36:873][149]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2025.11.08-03.55.36:873][149]LogModuleManager: Shutting down and abandoning module Messaging (256)
+[2025.11.08-03.55.36:873][149]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (254)
+[2025.11.08-03.55.36:874][149]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (252)
+[2025.11.08-03.55.36:874][149]LogModuleManager: Shutting down and abandoning module LiveCoding (250)
+[2025.11.08-03.55.36:886][149]LogModuleManager: Shutting down and abandoning module Networking (248)
+[2025.11.08-03.55.36:886][149]LogModuleManager: Shutting down and abandoning module Core (246)
+[2025.11.08-03.55.36:886][149]LogModuleManager: Shutting down and abandoning module AssetDefinition (244)
+[2025.11.08-03.55.36:886][149]LogModuleManager: Shutting down and abandoning module MovieSceneTools (242)
+[2025.11.08-03.55.36:887][149]LogModuleManager: Shutting down and abandoning module CurveEditor (241)
+[2025.11.08-03.55.36:888][149]LogModuleManager: Shutting down and abandoning module Sequencer (239)
+[2025.11.08-03.55.36:890][149]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2025.11.08-03.55.36:890][149]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2025.11.08-03.55.36:890][149]LogModuleManager: Shutting down and abandoning module NaniteBuilder (232)
+[2025.11.08-03.55.36:890][149]LogModuleManager: Shutting down and abandoning module MeshUtilities (230)
+[2025.11.08-03.55.36:890][149]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (229)
+[2025.11.08-03.55.36:891][149]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (228)
+[2025.11.08-03.55.36:891][149]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (227)
+[2025.11.08-03.55.36:891][149]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (224)
+[2025.11.08-03.55.36:891][149]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (223)
+[2025.11.08-03.55.36:891][149]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (221)
+[2025.11.08-03.55.36:891][149]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (219)
+[2025.11.08-03.55.36:892][149]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (217)
+[2025.11.08-03.55.36:892][149]LogModuleManager: Shutting down and abandoning module MaterialBaking (213)
+[2025.11.08-03.55.36:893][149]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (210)
+[2025.11.08-03.55.36:904][149]LogModuleManager: Shutting down and abandoning module TelemetryUtils (207)
+[2025.11.08-03.55.36:904][149]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (204)
+[2025.11.08-03.55.36:904][149]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (202)
+[2025.11.08-03.55.36:904][149]LogModuleManager: Shutting down and abandoning module DerivedDataCache (200)
+[2025.11.08-03.55.36:907][149]LogModuleManager: Shutting down and abandoning module TargetPlatform (198)
+[2025.11.08-03.55.36:907][149]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (197)
+[2025.11.08-03.55.36:907][149]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (193)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (191)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (189)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (187)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (185)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (183)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (181)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (179)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (177)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (175)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (173)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (171)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (169)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (167)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module TextureFormat (165)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module ImageWrapper (164)
+[2025.11.08-03.55.36:908][149]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (162)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (160)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (158)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (156)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (154)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (152)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module TurnkeySupport (149)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module InputCore (146)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module Settings (144)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (142)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (140)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (139)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module Chaos (136)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module GeometryCore (135)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (132)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (131)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module AVEncoder (130)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module D3D12RHI (126)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (124)
+[2025.11.08-03.55.36:909][149]RenderDocPlugin: plugin has been unloaded.
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module PixWinPlugin (122)
+[2025.11.08-03.55.36:909][149]LogModuleManager: Shutting down and abandoning module WmfMedia (120)
+[2025.11.08-03.55.36:913][149]LogModuleManager: Shutting down and abandoning module Media (119)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (116)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (114)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module NiagaraShader (112)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module VariantManagerContent (110)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module GLTFExporter (108)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module DatasmithContent (106)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (102)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module ChunkDownloader (100)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (98)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module ACLPlugin (96)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module ChaosCloth (94)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2025.11.08-03.55.36:915][149]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (90)
+[2025.11.08-03.55.36:916][149]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2025.11.08-03.55.36:918][149]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2025.11.08-03.55.36:918][149]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2025.11.08-03.55.36:947][149]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2025.11.08-03.55.36:947][149]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.08-03.55.36:947][149]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B23053F5D-43D4-8749-2A5A-9E9DC7344B23%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=2a7fbd8f4b0f8caa010ef2924d8a0998%7Ca5d3f10b9f084706a9e3643e07105265%7C088b1470-cfa9-4212-9b1b-ec34a89db700&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.11.08-03.55.36:979][149]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2025.11.08-03.55.36:980][149]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (74)
+[2025.11.08-03.55.36:980][149]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (72)
+[2025.11.08-03.55.36:980][149]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (70)
+[2025.11.08-03.55.36:980][149]LogModuleManager: Shutting down and abandoning module EOSShared (68)
+[2025.11.08-03.55.38:023][149]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.08-03.55.38:023][149]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2025.11.08-03.55.38:023][149]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2025.11.08-03.55.38:023][149]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2025.11.08-03.55.38:024][149]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2025.11.08-03.55.38:025][149]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2025.11.08-03.55.38:025][149]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2025.11.08-03.55.38:025][149]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2025.11.08-03.55.38:026][149]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2025.11.08-03.55.38:026][149]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2025.11.08-03.55.38:026][149]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2025.11.08-03.55.38:026][149]LogXGEController: Cleaning working directory: C:/Users/Usuario/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.11.08-03.55.38:026][149]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2025.11.08-03.55.38:026][149]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2025.11.08-03.55.38:026][149]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2025.11.08-03.55.38:027][149]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2025.11.08-03.55.38:028][149]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2025.11.08-03.55.38:028][149]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2025.11.08-03.55.38:028][149]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2025.11.08-03.55.38:028][149]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2025.11.08-03.55.38:029][149]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2025.11.08-03.55.38:029][149]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.11.08-03.55.38:029][149]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.11.08-03.55.38:029][149]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.11.08-03.55.38:030][149]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.11.08-03.55.38:030][149]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.11.08-03.55.38:031][149]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.11.08-03.55.38:031][149]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.11.08-03.55.38:031][149]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.11.08-03.55.38:031][149]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.11.08-03.55.38:031][149]LogPakFile: Destroying PakPlatformFile
+[2025.11.08-03.55.38:031][149]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.11.08-03.55.38:031][149]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.11.08-03.55.38:031][149]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.11.08-03.55.38:031][149]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.11.08-03.55.38:031][149]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.11.08-03.55.38:203][149]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.08-03.55.38:235][149]LogExit: Exiting.
+[2025.11.08-03.55.38:277][149]Log file closed, 11/08/25 00:55:38
