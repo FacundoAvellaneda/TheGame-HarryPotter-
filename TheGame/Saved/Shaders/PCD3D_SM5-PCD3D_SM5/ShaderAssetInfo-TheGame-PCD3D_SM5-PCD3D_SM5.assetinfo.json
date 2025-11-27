@@ -8,12 +8,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BFC2020112554820F44804D9A19E3890064916E2",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
-			]
-		},
-		{
 			"ShaderMapHash": "E887E2014001CC1284960B18E957C69EA9AE23FB",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
@@ -38,6 +32,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "073A1807712CB8C324C42FB2BD1677A9868E50D8",
+			"Assets": [
+				"/Game/ParticleSystem/Fireball/NewNiagaraSystem"
+			]
+		},
+		{
 			"ShaderMapHash": "DAA16F0712DC83866081B2AE5B58EBA8C1B0AA91",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
@@ -53,6 +53,12 @@
 			"ShaderMapHash": "876A8509ADF6983AB6127289CBBB7B94B128028C",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B07C5099D6CB1BAC3D655691D788A77B0FBDA6D",
+			"Assets": [
+				"/Game/ParticleSystem/PS_Pointer"
 			]
 		},
 		{
@@ -80,6 +86,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9E4F900E3CA97ED38E8F82080B31DDE2911C52E2",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "0B04B40E49BD5E920A5D27E53A91106ABB3C8987",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
@@ -89,6 +101,13 @@
 			"ShaderMapHash": "58B1C50E2263C3F7A093B4636964549D4751AE2E",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "51A45111B5BFD5A55C4D85F7976C5DD8C59C8703",
+			"Assets": [
+				"/Game/objetos/map/Tex_0030_0_dds",
+				"/Game/objetos/map/Tex_0031_0_dds"
 			]
 		},
 		{
@@ -107,6 +126,18 @@
 			"ShaderMapHash": "CEFB48128FF01D3C079FDA728288E4D700BB3D28",
 			"Assets": [
 				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "45117E129E945BEC8F0D07C53908870B257ECF8D",
+			"Assets": [
+				"/Game/Mesh_Enemy/Mat",
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/harry_anims/brazos",
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/harry_anims/cabeza",
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/harry_anims/cuerpo",
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/harry_anims/pelo",
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/harry_anims/piernas",
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/harry_anims/standardSurface1"
 			]
 		},
 		{
@@ -207,12 +238,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FED35E374F9EADB4DDCC0DB644C52817081E77E3",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
-			]
-		},
-		{
 			"ShaderMapHash": "6034C538A301AB33237CCDAC13B69B8FBFDC83FF",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
@@ -247,6 +272,13 @@
 			"ShaderMapHash": "B42DFD3E6D57209A942B07F157D676BA3EAF29DA",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "94F3D83FD4ADBFFE2D36FDBA1276A3DF339592A5",
+			"Assets": [
+				"/Game/objetos/m_Drake_Red",
+				"/Game/objetos/pbr_shader"
 			]
 		},
 		{
@@ -329,6 +361,19 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3F082753F2E8C6DF9E072F7480F580484673866E",
+			"Assets": [
+				"/Game/Fire_VDB/Material/M_SparseVolumeMaterial_Inst_10",
+				"/Game/Fire_VDB/Material/M_SparseVolumeMaterial_Inst_03",
+				"/Game/Fire_VDB/Material/M_SparseVolumeMaterial_Inst_04",
+				"/Game/Fire_VDB/Material/M_SparseVolumeMaterial_Inst_05",
+				"/Game/Fire_VDB/Material/M_SparseVolumeMaterial_Inst_06",
+				"/Game/Fire_VDB/Material/M_SparseVolumeMaterial_Inst_07",
+				"/Game/Fire_VDB/Material/M_SparseVolumeMaterial_Inst_08",
+				"/Game/Fire_VDB/Material/M_SparseVolumeMaterial_Inst_09"
+			]
+		},
+		{
 			"ShaderMapHash": "AC87C155C4EF2B414A9478C42A3FC594020DDE1B",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Bush"
@@ -353,6 +398,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1E38996304FD969B4AF84A99AD32D75AE63DC946",
+			"Assets": [
+				"/Game/Fire_VDB/Material/M_SparseVolumeMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "CD02A664925842D614153C18ACAC0A90BE2E1860",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Brick_Cut_Stone"
@@ -371,6 +422,19 @@
 			]
 		},
 		{
+			"ShaderMapHash": "49A80568E932CC2341EE8CBACBF34CFD4718A9FC",
+			"Assets": [
+				"/Game/objetos/map/Tex_0035_1_dds",
+				"/Game/objetos/Tex_0005_1_dds2"
+			]
+		},
+		{
+			"ShaderMapHash": "C9E12E68C61E65330EED208B82B1E1BBFFD4679D",
+			"Assets": [
+				"/Game/Blueprints/BP_Materials/M_Tortuga"
+			]
+		},
+		{
 			"ShaderMapHash": "FD9D826A181223FFA8973616259762977E852C47",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
@@ -386,6 +450,12 @@
 			"ShaderMapHash": "96B030703B088BAEDCA5E8382DA0D8A3B402C1C6",
 			"Assets": [
 				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "6F1E52708D207CC9CBBD6FA15317CF79DE318DC1",
+			"Assets": [
+				"/Engine/BufferVisualization/BaseColor"
 			]
 		},
 		{
@@ -461,12 +531,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E45CD680629F8233817788E10934FB10874F608E",
-			"Assets": [
-				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
-			]
-		},
-		{
 			"ShaderMapHash": "70F41084DC7274E8BDC9D6CA5F79A8B4A8BA00A5",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
@@ -521,6 +585,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "571C1095BD088F923E58FE497D2D8F5DAB957D7F",
+			"Assets": [
+				"/Game/Fire_VDB/Material/M_SparseVolumeMaterial_Inst_01",
+				"/Game/Fire_VDB/Material/M_SparseVolumeMaterial_Inst_02"
+			]
+		},
+		{
 			"ShaderMapHash": "9A805098C42C67B3FA48E9A48F53CADC3E7E5366",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
@@ -540,15 +611,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FC39D299DD4B16A2E7E8C06CF7C52B73C2500177",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_Solid"
-			]
-		},
-		{
 			"ShaderMapHash": "F435529A87BD4E175C3A0711F241BC90D40E233C",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Concrete_Grime"
+			]
+		},
+		{
+			"ShaderMapHash": "C0301E9BF7DBC9AC1F503F9FEF5198C08020980C",
+			"Assets": [
+				"/Game/objetos/Tex_0005_1_dds4"
 			]
 		},
 		{
@@ -561,6 +632,12 @@
 			"ShaderMapHash": "3B99809D14C4D259B7784DF55CBA69D65AE58DAD",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "BE57909DB03EC18CC9FB1583FC96DFD787EDB0F6",
+			"Assets": [
+				"/Game/objetos/DefaultMaterial"
 			]
 		},
 		{
@@ -579,13 +656,6 @@
 			"ShaderMapHash": "7BDC1FA06BE59BF740629282C15475DC3B0B5935",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "92A8C8A0CC5679F75008A95531CB49AEF6084469",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02"
 			]
 		},
 		{
@@ -646,6 +716,92 @@
 			"ShaderMapHash": "A5CE02AA1919034884AB44BA74CCC4107EE97F2C",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "6FA6CBAA94F9932F3956C837B611DDBE8AADBF60",
+			"Assets": [
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__2",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__22",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__29",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__31",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__32",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__33",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_1",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_2",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_3",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_4",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_5",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_6",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_7",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_8",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_9",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_10",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_11",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_12",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_13",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_14",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_15",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_16",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_17",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_18",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__11_ncl1_19",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_1",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_2",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_3",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_4",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_5",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_6",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_7",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_8",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_9",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_10",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_11",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_12",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_13",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_14",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_atlas_02_unlit_mat__5_ncl1_15",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_brick_mat",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_bulbglows_mat",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_fake_lighting_mat",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_fireembers_mat",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_godrays_mat",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_tapestries_mat",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_windows",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_woodplanks_mat",
+				"/Game/objetos/map/grifindor/pk_gryffindorcommonroom_woodplanks_mat_ncl1_1",
+				"/Game/objetos/map/grifindor/Tex_0007_0_dds",
+				"/Game/objetos/map/grifindor/Tex_0008_1_dds",
+				"/Game/objetos/map/grifindor/Tex_0009_1_dds",
+				"/Game/objetos/map/grifindor/Tex_0010_0_dds",
+				"/Game/objetos/map/Tex_0005_1_dds",
+				"/Game/objetos/map/Tex_0006_1_dds",
+				"/Game/objetos/map/Tex_0007_0_dds",
+				"/Game/objetos/map/Tex_0008_1_dds",
+				"/Game/objetos/map/Tex_0009_1_dds",
+				"/Game/objetos/map/Tex_0010_0_dds",
+				"/Game/objetos/map/Tex_0010_0_dds_ncl1_1",
+				"/Game/objetos/map/Tex_0011_0_dds",
+				"/Game/objetos/map/Tex_0012_0_dds",
+				"/Game/objetos/map/Tex_0013_0_dds",
+				"/Game/objetos/map/Tex_0014_0_dds",
+				"/Game/objetos/map/Tex_0016_0_dds",
+				"/Game/objetos/map/Tex_0017_0_dds",
+				"/Game/objetos/map/Tex_0031_1_dds",
+				"/Game/objetos/map/Tex_0032_0_dds",
+				"/Game/objetos/map/Tex_0033_0_dds",
+				"/Game/objetos/map/Tex_0034_0_dds",
+				"/Game/objetos/map/Tex_0050_0_dds1",
+				"/Game/objetos/map/Tex_0052_0_dds",
+				"/Game/objetos/map/Tex_0052_0_dds_ncl1_1",
+				"/Game/objetos/map/Tex_0072_1_dds",
+				"/Game/objetos/map/Tex_0072_1_dds_ncl1_1",
+				"/Game/objetos/map/Tex_0073_0_dds",
+				"/Game/objetos/material_3",
+				"/Game/objetos/material_5",
+				"/Game/objetos/Tex_0006_1_dds"
 			]
 		},
 		{
@@ -733,6 +889,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "0E3C9FC587A9C41EF17D6039A98E2D9E2FC0CFB6",
+			"Assets": [
+				"/Game/StarterContent/Particles/Materials/M_Fire_SubUV"
+			]
+		},
+		{
 			"ShaderMapHash": "1873EAC90491014DB48003F0EF5605E409E71914",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Statue"
@@ -763,9 +925,26 @@
 			]
 		},
 		{
+			"ShaderMapHash": "061B11CE4B371ACA2EF915B116827E3A08CF8AE9",
+			"Assets": [
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/cabeza",
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/cuerpo",
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/pelo",
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/piernas",
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/standardSurface1"
+			]
+		},
+		{
 			"ShaderMapHash": "909D52CE0D28585423ED13F15C15910934259917",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Rock_Basalt"
+			]
+		},
+		{
+			"ShaderMapHash": "7B27C2D019D4C24A8AC83B1087DDBC14F3357F2D",
+			"Assets": [
+				"/Game/objetos/map/Tex_0006_1_dds_ncl1_1",
+				"/Game/objetos/Tex_0005_1_dds1"
 			]
 		},
 		{
@@ -802,6 +981,12 @@
 			"ShaderMapHash": "0DFB84D5C5ADF5BACD5B35C0EEAF77BABA71705F",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "D5D455D9D212282B4A13E3BAF789AB7A717D3EE0",
+			"Assets": [
+				"/Game/NewMaterial"
 			]
 		},
 		{
@@ -850,7 +1035,6 @@
 			"ShaderMapHash": "F9506EDF1C4EFA38AC0002A537C3173507C6B07F",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/Blueprints/BP_Materials/M_Tortuga",
 				"/Game/Fbx_Default_Material"
 			]
 		},
@@ -870,6 +1054,12 @@
 			"ShaderMapHash": "E74C3AE1977BE47D188CD23358E169CBB2239DEB",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "9BAEE2E10963E5B98B64CBE64FB6F5CE11A18646",
+			"Assets": [
+				"/Game/ThirdPerson/Blueprints/PJ_Mesh/brazos"
 			]
 		},
 		{
@@ -910,9 +1100,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "BAFE0FEDE4B49C46826A735A271AB7B047C287D9",
+			"ShaderMapHash": "7A06BEECD69B95D393CD6EB63C1CE3041E951B3F",
 			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
+				"/Game/objetos/Tex_0005_1_dds3"
 			]
 		},
 		{
@@ -968,6 +1158,12 @@
 			"ShaderMapHash": "9CC9BCFB1252CD82B805F55F219E2DC1B1C5BCF4",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B405ABFCAA4FCC9634E8BB347409743F06925013",
+			"Assets": [
+				"/Game/Blueprints/M_ParticlePointer"
 			]
 		},
 		{
